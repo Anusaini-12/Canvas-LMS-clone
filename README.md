@@ -2,7 +2,7 @@
 
 A responsive clone of the Canvas LMS Dashboard using React, Vite, and Tailwind CSS.
 
-🔗 Live Demo: 
+🔗 Live Demo: https://canvas-lms-clone-flax.vercel.app/
 
 ## Features
 - Responsive sidebar (desktop/tablet/mobile)
